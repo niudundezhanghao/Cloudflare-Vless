@@ -1,3 +1,5 @@
+高质量 ProxyIP 一键生成节点链接  https://pinjie-1d6.pages.dev/
+
 支持五协议：Vless+Trojan+Xhttp+Turn+Shadowsocks
 
 没有特别需要，仅需更改UUID即可部署
